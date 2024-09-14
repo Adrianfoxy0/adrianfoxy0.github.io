@@ -1,0 +1,104 @@
+.cabecalho {
+color: lightgreen;
+border: 10px solid green;
+width: 150%;
+height: 350px;
+border-radius: 10px;
+background-image: url('https://lh3.googleusercontent.com/pw/AP1GczM0E3N7bzyRebgOMtiqc0wqZzXVb6Ev4aR3hAVrcWLSesdDPVPtyvfbIsSh4qBwqsrWmvSyagSfGriq3cLX1M2xiz7bAF45IwQ1TGTAZpC-TgDlrPerRdUo0JPklQbvt3czKn_2u7Nd3e41-3C8eNw9=w738-h415-s-no-gm?authuser=0');
+background-repeat: no-repeat;
+}
+
+.avisos {
+padding-left: 10px;
+}
+
+.titulo {
+text-align: center;
+color: green;
+background-color: orange;
+opacity:0.75;
+}
+
+.instagram {
+text-align: right;
+margin-left: 50%;
+display: inline-block;
+}
+
+body {
+ background-color: black;
+}
+
+.cores {
+
+}
+
+.cor {
+height: 40px;
+width: 100%;
+background-color: white;
+border: 5px solid lightgreen;
+border-radius: 10px;
+text-align: right;
+}
+
+.meio {
+width: 150%;
+height: 75px;
+border: 5px solid green;
+border-radius: 10px;
+}
+
+.aviso {
+height: 75px;
+width: 15%;
+color: lightgreen;
+background-color: red;
+border: 3px solid yellow;
+}
+
+a {
+ text-decoration: none;
+ color: lightgreen;
+ font-weight: bold;
+}
+
+.caixa {
+display: inline-block;
+border: 3px solid yellow;
+}
+
+.caixa2 {
+text-align: left;
+padding-left: 10px;
+}
+
+.avisoss {
+color: green;
+text-align: center;
+}
+
+.link {
+background-color: ;
+}
+
+a:hover {
+    text-decoration: underline; 
+    color: #0c47a1;
+}
+
+details {
+font-weight: bold;
+}
+
+.esquerda {
+text-align: left;
+}
+
+.espaco {
+height: 80px;
+}
+
+.merenda {
+font-size: 0px;
+}
