@@ -60,7 +60,7 @@ border: 3px solid yellow;
 a {
  text-decoration: none;
  color: lightgreen;
- font-weight: bol;
+ font-weight: bold;
 }
 
 .caixa {
@@ -88,7 +88,7 @@ a:hover {
 }
 
 details {
-font-weight: bol;
+font-weight: bold;
 }
 
 .esquerda {
